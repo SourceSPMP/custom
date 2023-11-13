@@ -12,12 +12,14 @@
 		"label" "#GameUI_GameMenu_Disconnect"
 		"command" "Disconnect"
 		"OnlyInGame" "1"
+		"InGameOrder" "13"
 	}
 	"3"
 	{
 		"label" "#GameUI_GameMenu_PlayerList"
 		"command" "OpenPlayerListDialog"
 		"OnlyInGame" "1"
+		"InGameOrder" "16"
 	}
 	"5"	
 	{
@@ -45,11 +47,13 @@
 	{
 		"label" "#GameUI_GameMenu_FindServers"
 		"command" "OpenServerBrowser"
+		"InGameOrder" "23"
 	}
 	"7_4"
 	{
 		"label" "#GameUI_GameMenu_CreateServer"
 		"command" "OpenCreateMultiplayerGameDialog"
+		"InGameOrder" "26"
 	}
 	"7_5"
 	{
