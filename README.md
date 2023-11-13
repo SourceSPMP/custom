@@ -1,2 +1,1 @@
-# custom
-custom folders
+All the customs for sp games.
